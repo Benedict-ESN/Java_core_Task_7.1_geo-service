@@ -1,0 +1,5 @@
+# Created at 2024-05-19T20:32:44.622
+Boot Manifest-JAR contains absolute paths in classpath 'E:\netology\JavaCore\Task_7.1_geo-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

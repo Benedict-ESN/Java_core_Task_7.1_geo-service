@@ -8,6 +8,8 @@ import ru.netology.i18n.LocalizationServiceImpl;
 import ru.netology.sender.MessageSender;
 import ru.netology.sender.MessageSenderImpl;
 
+
+
 public class Main {
 
     //Тестовый пример
